@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pop-cat-bin-net
+</name>
+</assembly>
+<members>
+<member name="T:pop_cat_bin_net.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.atmIwDw04nJ3buvDDEXo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.dZn7WviI7yvdLdO7Leg6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.e9tCRkrA0yoN4ddiJEwf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Ks7NG6jZaTfeILNIVqx9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Nw6vUtDpPTTcc3WAR0um">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.qrr3QW60WTrzf0Xcqlin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Szs348wYMsMv0kEzRF2F">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.uVn8uHXaUKANfhGFMpX4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.uVn8uHXaUKANfhGFMpX41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.VUMcv6yiuUNl4hlcAH0I">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Wk43BkQjt48QmIBBVMhk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.Z9Ka9hceumSD7L8fBWHW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:pop_cat_bin_net.My.Resources.Resources.ZHfTZbFjP4duJXeUluCE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+</members>
+</doc>

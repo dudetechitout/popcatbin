@@ -1,0 +1,12 @@
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\bin\Debug\pop-cat-bin-net.exe.config
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\bin\Debug\pop-cat-bin-net.exe
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\bin\Debug\pop-cat-bin-net.pdb
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\bin\Debug\pop-cat-bin-net.xml
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.vbprojAssemblyReference.cache
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop_cat_bin_net.Resources.resources
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.vbproj.GenerateResource.cache
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.vbproj.CoreCompileInputs.cache
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.exe
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.xml
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop-cat-bin-net.pdb
+C:\Users\mush\source\repos\pop-cat-bin-net\pop-cat-bin-net\obj\Debug\pop_cat_bin_net.Form1.resources
